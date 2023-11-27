@@ -1,0 +1,67 @@
+{
+  "Scientists": [
+    {
+      "Id": 1,
+      "FullName": "John Smith",
+      "Faculty": "Physical",
+      "Department": "Particle Physics",
+      "Position": "Professor",
+      "Salary": "70000",
+      "JobExperience": "15"
+    },
+    {
+      "Id": 2,
+      "FullName": "Elena Petrova",
+      "Faculty": "Biological",
+      "Department": "Microbiology",
+      "Position": "Associate Professor",
+      "Salary": "70000",
+      "JobExperience": "12"
+    },
+    {
+      "Id": 3,
+      "FullName": "Alexey Sidorov",
+      "Faculty": "Chemical",
+      "Department": "Inorganic Chemistry",
+      "Position": "Senior Researcher",
+      "Salary": "75000",
+      "JobExperience": "14"
+    },
+    {
+      "Id": 4,
+      "FullName": "Maria Johnson",
+      "Faculty": "Engineering",
+      "Department": "Information Technology",
+      "Position": "Assistant Professor",
+      "Salary": "60000",
+      "JobExperience": "10"
+    },
+    {
+      "Id": 5,
+      "FullName": "Robert Brown",
+      "Faculty": "Physical",
+      "Department": "General Physics",
+      "Position": "Lecturer",
+      "Salary": "55000",
+      "JobExperience": "8"
+    },
+    {
+      "Id": 6,
+      "FullName": "Sophia Miller",
+      "Faculty": "Engineering",
+      "Department": "Cybernetics",
+      "Position": "Research Fellow",
+      "Salary": "65000",
+      "JobExperience": "13"
+    },
+    {
+      "Id": 7,
+      "FullName": "Daniel Lee",
+      "Faculty": "Computer Science",
+      "Department": "Artificial Intelligence",
+      "Position": "Assistant Professor",
+      "Salary": "65000",
+      "JobExperience": "11"
+    }
+  ]
+}
